@@ -1,5 +1,7 @@
-# Character Recognition using python
+# Digit Recognition using python(MNIST Dataset)
 
-## Methods used: Backpropogation
+## Methods used:
+- Digit Recognition from scratch(ANN)
+- Digit Recognition using Keras(ANN)
+- Digit Recognition using CNN(LeNet Architecture)
 
-# Note: Same project built using keras for comparison
